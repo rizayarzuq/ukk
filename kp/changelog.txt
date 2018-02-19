@@ -1,0 +1,32 @@
+Compact One
+
+*********************
+Version 1.6 (10/13/2017)
+- Improved look & feel of blog page and single post page
+- Added About Page in admin 
+
+Version 1.5 (09/28/2017)
+- Added Option to Enable / Disable Gradient overlay for slider image
+- Added Option for Slider Caption Background / Border / None
+- Improved CSS for sub-menus
+- Added hover effect for menu items
+
+Version 1.4.1 (09/27/2017)
+- Fixed footer area
+- Added video tutorial link - https://cyberchimps.com/compact-one-tutorials
+
+Version 1.4 (09/26/2017)
+- Resolved js error
+
+Version 1.3 (09/25/2017)
+- Resolved issues as per guidelines
+
+Version 1.2 (09/19/2017)
+- Removed content metaboxes
+- Added non-minified versions of css, js files
+
+Version 1.1 (08/25/2017)
+- Fixed issues as per guidelines
+
+Version 1.0 (07/03/2017)
+- Initial release

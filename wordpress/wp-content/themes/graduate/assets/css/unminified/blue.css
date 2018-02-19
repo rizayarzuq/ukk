@@ -1,0 +1,22 @@
+/*---------------------------------------------------
+					BACKGROUND COLORS
+---------------------------------------------------*/
+#site-navigation {
+    background-color: #273D62;
+}
+.site-footer {
+    background-color: #273d61;
+}
+.site-info {
+    background-color: #1a2840;
+}
+#trending-courses {
+    background-color: #474d65;
+}
+
+/*---------------------------------------------------
+					TEXT COLORS
+---------------------------------------------------*/
+#site-header .site-title a {
+    color: #273D62;
+}

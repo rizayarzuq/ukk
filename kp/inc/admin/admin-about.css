@@ -1,0 +1,112 @@
+.compact-one-about-wrapper .cyberchimps-badge
+{
+	background-image:url("../../core/lib/images/logo.png");
+	background-color: transparent;
+	width: 200px;
+	background-size: 100%;
+	box-shadow: none;
+}
+
+/* request feature */
+.ccinfo {
+    margin-bottom: 15px;
+    display: block;
+    line-height: 24px;
+}
+.panel-body {
+    padding: 20px;
+    border: 1px solid rgb(205, 205, 205);
+    display: inline-block;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    width: 34%;
+}
+.form-group label {
+    margin-right: 10px;
+}
+.form-group label {
+    font-size: 14px;
+    display: block;
+    margin: 10px 0;
+}
+.form-group textarea {
+    width: 70%;
+    height: 100px;
+}
+.form-group input {
+    width: 260px;
+    padding: 5px;
+    display: inline-block;
+    height: 30px;
+    border-radius: 0px;
+    border: 1px solid rgb(200, 200, 200);
+    box-shadow: none;
+    color: rgb(147, 147, 147);
+    margin-bottom: 20px;
+}
+
+/* free v/s pro */
+.features-table {
+    width: 100%;
+    border-spacing: 0px;
+    border-collapse: collapse;
+	margin-top: 50px;
+}
+.features-table tr {
+    border-bottom: 1px solid #cccccc;
+}
+.features th {
+    text-align: center;
+    font-size: 18px;
+	padding-bottom: 20px;
+}
+.features-table .feature {
+    font-size: 18px;
+    font-weight: bold;
+}
+.features-table td {
+    padding: 20px 0;
+}
+.features-table p {
+    font-weight: normal;
+}
+.featureyes {
+    text-align: center;
+}
+.features-table .dashicons-yes {
+    color: #259e58;
+}
+.features-table .dashicons-before::\before {
+    font-size: 30px;
+}
+.features-table .dashicons-no-alt {
+    color: #ff0000;
+}
+.tab-freepro .buy {
+    margin-top: 20px;
+    float: right;
+}
+.tab-freepro .buylink {
+    padding-top: 6px;
+    height: 40px;
+}
+.featureno {
+    text-align: center;
+}
+.about-wrap #formfeedback #ccfeature-error, .about-wrap #formfeedback #ccemail-error
+{
+	display:block !important;
+	margin: 0px 0px 10px;
+	border: medium none;
+	box-shadow: none;
+	padding-left: 0px;
+	color: #ff0000;
+}
+.about-wrap #demodatareq #ccemail-error
+{
+	display:block !important;
+	margin: 0px 0px 10px;
+	border: medium none;
+	box-shadow: none;
+	padding-left: 0px;
+	color: #ff0000;
+}

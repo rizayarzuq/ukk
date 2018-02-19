@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CyberChimps Core\n"
+"POT-Creation-Date: 2017-07-08 13:47+0530\n"
+"PO-Revision-Date: 2017-07-08 13:47+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_e;esc_html_e;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:285
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: functions.php:304
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:308
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: functions.php:327
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: functions.php:344
+#, php-format
+msgid "Tags: %s"
+msgstr ""
+
+#: functions.php:359 functions.php:370
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:361
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:361
+msgid "Comments"
+msgstr ""
+
+#: functions.php:380
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:438
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: functions.php:441
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: functions.php:444
+msgid "Author Archives"
+msgstr ""
+
+#: functions.php:447
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: functions.php:450
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: functions.php:453
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: functions.php:456
+msgid "Shop"
+msgstr ""
+
+#: functions.php:459
+msgid "Archives"
+msgstr ""
+
+#: functions.php:465
+#, php-format
+msgid "Search for &quot; %s &quot;"
+msgstr ""
+
+#: functions.php:470
+msgid "Not Found"
+msgstr ""
+
+#: functions.php:481
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: hooks/footer-hooks.php:32
+msgid "CyberChimps WordPress Themes"
+msgstr ""
+
+#: hooks/footer-hooks.php:33
+msgid "Theme home page (will open in a new window)"
+msgstr ""
+
+#: hooks/header-hooks.php:112
+msgid " Link will open in new window"
+msgstr ""
+
+#: inc/cc-custom-background.php:93
+msgid "Or choose one of CyberChimps background images"
+msgstr ""
+
+#: init.php:68
+msgid "Primary Menu"
+msgstr ""
+
+#: init.php:85
+msgid "Sidebar Right"
+msgstr ""
+
+#: options-customizer.php:107
+msgid "make sure you have removed the image above before selecting one of these"
+msgstr ""
+
+#: options-customizer.php:198
+msgid "Header Option"
+msgstr ""
+
+#: options-customizer.php:207
+msgid "Custom Logo URL"
+msgstr ""
+
+#: options-customizer.php:220
+msgid "Enter Custom Logo URL"
+msgstr ""
+
+#: options-customizer.php:233
+msgid "Social Option"
+msgstr ""
+
+#: options-customizer.php:249
+msgid "Choose your icon style"
+msgstr ""
+
+#: options-customizer.php:262
+msgid "Display Facebook?"
+msgstr ""
+
+#: options-customizer.php:274
+msgid "Facebook URL"
+msgstr ""
+
+#: options-customizer.php:286
+msgid "Display Twitter?"
+msgstr ""
+
+#: options-customizer.php:297
+msgid "Twitter URL"
+msgstr ""
+
+#: options-customizer.php:308
+msgid "Display Google?"
+msgstr ""
+
+#: options-customizer.php:318
+msgid "Google+ URL"
+msgstr ""
+
+#: options-customizer.php:328
+msgid "Display LinkedIn?"
+msgstr ""
+
+#: options-customizer.php:337
+msgid "LinkedIn URL"
+msgstr ""
+
+#: options-customizer.php:347
+msgid "Display Youtube?"
+msgstr ""
+
+#: options-customizer.php:356
+msgid "Youtube URL"
+msgstr ""
+
+#: options-customizer.php:366
+msgid "Display Flickr?"
+msgstr ""
+
+#: options-customizer.php:375
+msgid "Flickr URL"
+msgstr ""
+
+#: options-customizer.php:385
+msgid "Display Pinterest?"
+msgstr ""
+
+#: options-customizer.php:394
+msgid "Pinterest URL"
+msgstr ""
+
+#: options-customizer.php:404
+msgid "Display Google Maps?"
+msgstr ""
+
+#: options-customizer.php:413
+msgid "Google Maps URL"
+msgstr ""
+
+#: options-customizer.php:423
+msgid "Display Email?"
+msgstr ""
+
+#: options-customizer.php:432
+msgid "Email Address"
+msgstr ""
+
+#: options-customizer.php:442
+msgid "Display RSS?"
+msgstr ""
+
+#: options-customizer.php:451
+msgid "RSS URL"
+msgstr ""
+
+#: options-customizer.php:461
+msgid "Display Instagram?"
+msgstr ""
+
+#: options-customizer.php:470
+msgid "Instagram URL"
+msgstr ""
+
+#: options-customizer.php:480
+msgid "Footer"
+msgstr ""
+
+#: options-customizer.php:485 options-customizer.php:489
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: options-customizer.php:499
+msgid "Design"
+msgstr ""
+
+#: options-customizer.php:510
+msgid "Text Color"
+msgstr ""
+
+#: options-customizer.php:522
+msgid "Link Color"
+msgstr ""
+
+#: options-customizer.php:534
+msgid "Link Hover Color"
+msgstr ""
+
+#: options-customizer.php:543
+msgid "Typography"
+msgstr ""
+
+#: options-customizer.php:554
+msgid "Typography Size"
+msgstr ""
+
+#: options-customizer.php:568
+msgid "Typography Style"
+msgstr ""
+
+#: options-customizer.php:607
+msgid "Typography Face"
+msgstr ""
+
+#: options-customizer.php:621
+msgid "Enter Google font"
+msgstr ""
+
+#: options-customizer.php:634
+msgid "Font Family for headings"
+msgstr ""
+
+#: options-customizer.php:648
+msgid "Google font for headings"
+msgstr ""
+
+#: options-customizer.php:662
+msgid "Background Image"
+msgstr ""
+
+#: options-sanitize.php:314
+msgid "No Repeat"
+msgstr ""
+
+#: options-sanitize.php:315
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: options-sanitize.php:316
+msgid "Repeat Vertically"
+msgstr ""
+
+#: options-sanitize.php:317
+msgid "Repeat All"
+msgstr ""
+
+#: options-sanitize.php:331
+msgid "Top Left"
+msgstr ""
+
+#: options-sanitize.php:332
+msgid "Top Center"
+msgstr ""
+
+#: options-sanitize.php:333
+msgid "Top Right"
+msgstr ""
+
+#: options-sanitize.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: options-sanitize.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: options-sanitize.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: options-sanitize.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: options-sanitize.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: options-sanitize.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: options-sanitize.php:353
+msgid "Scroll Normally"
+msgstr ""
+
+#: options-sanitize.php:354
+msgid "Fixed in Place"
+msgstr ""
+
+#: options-sanitize.php:431
+msgid "Normal"
+msgstr ""
+
+#: options-sanitize.php:432
+msgid "Italic"
+msgstr ""
+
+#: options-sanitize.php:433
+msgid "Bold"
+msgstr ""
+
+#: options-sanitize.php:434
+msgid "Bold Italic"
+msgstr ""
